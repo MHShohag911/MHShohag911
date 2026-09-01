@@ -1,4 +1,4 @@
-![Web Developer](https://i.postimg.cc/tggcBvCG/IMG20250725152740-01.jpg)
+![Web Developer](https://i.postimg.cc/1tp2093B/Chat-GPT-Image-Sep-1-2026-01-31-21-PM.png)
 
 ### Hi there 👋, I'm Md Shohag Hossain
 #### Web Developer
