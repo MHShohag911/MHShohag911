@@ -22,5 +22,5 @@ Skills:  / REACT / JS / HTML / CSS/ Tailwind
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MHShohag911&show_icons=true&count_private=true)  
 
-
+https://github-stats-extended.vercel.app/api?username=MHShohag911
 
