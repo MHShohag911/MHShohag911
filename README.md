@@ -70,7 +70,7 @@ My journey started in **Mechanical & Mechatronics Engineering**, but I soon disc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/top-langs-v9.svg" alt="Top Languages" />
+  <img src="./profile/top-langs-v3.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
