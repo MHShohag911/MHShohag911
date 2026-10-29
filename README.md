@@ -71,14 +71,8 @@ My journey started in **Mechanical & Mechatronics Engineering**, but I soon disc
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHShohag911&langs_count=8)](https://github.com/MHShohag911)
 
-[![Md Shohag Hossain's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHShohag911&show_icons=true)](https://github.com/MHShohag911)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHShohag911&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHShohag911&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
