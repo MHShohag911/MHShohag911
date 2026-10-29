@@ -69,14 +69,16 @@ My journey started in **Mechanical & Mechatronics Engineering**, but I soon disc
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHShohag911&langs_count=8)](https://github.com/MHShohag911)
-
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs-v9.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHShohag911&theme=radical" alt="GitHub Streak" />
+  <img src="./profile/stats-v9.svg" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHShohag911&background=ffffff&border=e4e2e2&stroke=3178C6&ring=3178C6&fire=E34F26&currStreakNum=E34F26&currStreakLabel=E34F26&sideNums=1DD100&sideLabels=1DD100&dates=333333" alt="GitHub Streak" />
 </p>
 
 ---
@@ -94,8 +96,6 @@ My journey started in **Mechanical & Mechatronics Engineering**, but I soon disc
 ---
 
 <p align="center"><i>⭐️ From <a href="https://github.com/MHShohag911">MHShohag911</a></i></p>
-
-
 
 
 
