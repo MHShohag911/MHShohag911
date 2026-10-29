@@ -13,23 +13,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 1. Download the Stats card
-      - name: Download Stats Card
-        run: |
-          mkdir -p profile
-          curl -s "https://github-readme-stats.vercel.app/api?username=MHShohag911&show_icons=true&bg_color=ffffff&title_color=1DD100&text_color=3178C6&icon_color=3178C6&border_color=e4e2e2" -o profile/stats-v8.svg
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&bg_color=ffffff&title_color=1DD100&text_color=3178C6&icon_color=3178C6&border_color=e4e2e2"
+          path: profile/stats-v9.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 2. Download the Languages card (Forcing compact layout)
-      - name: Download Top Languages Card
-        run: |
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=MHShohag911&layout=compact&langs_count=4&bg_color=ffffff&text_color=333333&border_color=e4e2e2" -o profile/top-langs-v8.svg
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          # REMOVED title_color here. Let it generate with default title to force progress bars.
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=4&bg_color=ffffff&text_color=333333&border_color=e4e2e2"
+          path: profile/top-langs-v9.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
           
-      # 3. Force the Title color to #1DD100 directly in the SVG file
-      - name: Inject #1DD100 Title Color
+      # This command forces the title color to #1DD100 inside the generated image
+      - name: Force Green Title Color
         run: |
-          sed -i 's/fill="[^"]*"/fill="#1DD100"/' profile/top-langs-v8.svg
+          sed -i 's/class="header" fill="[^"]*"/class="header" fill="#1DD100"/' profile/top-langs-v9.svg
 
-      # 4. Commit the new files
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
