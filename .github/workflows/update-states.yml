@@ -2,8 +2,8 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
-  workflow_dispatch: # Allows you to run it manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -17,7 +17,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical
+          options: "username=${{ github.repository_owner }}&show_icons=true&bg_color=141321&border_color=e4e2e2&title_color=fe428e&text_color=a9fef7&icon_color=f8d847"
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=radical
+          options: "username=${{ github.repository_owner }}&layout=compact&bg_color=ffffff&title_color=1DD100&text_color=333333&border_color=e4e2e2&langs_count=4&langs_colors=javascript-F7DF1E,typescript-3178C6,html-E34F26,css-563D7C"
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
