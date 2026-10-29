@@ -1,24 +1,109 @@
 ![Web Developer](https://i.postimg.cc/WbPrfsbs/My-Photo.png)
 
-### Hi there 👋, I'm Md Shohag Hossain
-#### Web Developer
+### 👨‍💻 About Me
 
-I'm a **Front-End Developer** with a strong passion for crafting elegant, user-friendly, and responsive web applications.  
-My journey started from mechanical & mechatronics engineering, but I soon discovered my love for designing interactive digital experiences.  
+I'm a **Front-End Developer** with a strong passion for crafting elegant, user-friendly, and responsive web applications.
 
-Skills:  / REACT / JS / HTML / CSS/ Tailwind
+My journey started in **Mechanical & Mechatronics Engineering**, but I soon discovered my love for designing interactive digital experiences — and I've been building for the web ever since.
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Development 
+- 🔭 I'm currently working on **my personal portfolio page**
+- 🌱 I'm currently deepening my knowledge of **TypeScript & Next.js**
+- 👯 I'm looking to collaborate on **open-source projects on GitHub**
+- 💬 Ask me about **Web Development, React, Next.js, or Tailwind CSS**
+- ⚡ Fun fact: I came to code from an engineering background
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MHShohag911)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/md-shohag-hossain-827146275/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/MH.Shohag.911)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/m_h_shohag//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/shohagmdhossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/19925258/md-shohag-hossain)  
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
+
+**Tools**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/MHShohag911" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="35"/>
+  </a>
+  <a href="https://linkedin.com/in/md-shohag-hossain-827146275" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="35"/>
+  </a>
+  <a href="https://www.facebook.com/MH.Shohag.911" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="35"/>
+  </a>
+  <a href="https://www.instagram.com/m_h_shohag/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="35"/>
+  </a>
+  <a href="https://x.com/shohagmdhossain" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="X (Twitter)" height="35"/>
+  </a>
+  <a href="https://stackoverflow.com/users/19925258/md-shohag-hossain" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="35"/>
+  </a>
+</p>
+
+---
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+---
+
+### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHShohag911&langs_count=8)](https://github.com/MHShohag911)
 
 [![Md Shohag Hossain's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHShohag911&show_icons=true)](https://github.com/MHShohag911)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHShohag911&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MHShohag911&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHShohag911&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏅 Badges
+
+<p align="left">
+  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"/></a>
+  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"/></a>
+  <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"/></a>
+  <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"/></a>
+  <a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"/></a>
+</p>
+
+---
+
+<p align="center"><i>⭐️ From <a href="https://github.com/MHShohag911">MHShohag911</a></i></p>
+
+
+
+
+
+
 
